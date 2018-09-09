@@ -1,0 +1,10 @@
+C:\Users\vh133\Documents\Visual Studio 2017\WebSites\BookFinderClient\ConsumeBookFinderService\bin\Debug\ConsumeBookFinderService.exe.config
+C:\Users\vh133\Documents\Visual Studio 2017\WebSites\BookFinderClient\ConsumeBookFinderService\bin\Debug\ConsumeBookFinderService.exe
+C:\Users\vh133\Documents\Visual Studio 2017\WebSites\BookFinderClient\ConsumeBookFinderService\bin\Debug\ConsumeBookFinderService.pdb
+C:\Users\vh133\Documents\Visual Studio 2017\WebSites\BookFinderClient\ConsumeBookFinderService\obj\Debug\ConsumeBookFinderService.Form1.resources
+C:\Users\vh133\Documents\Visual Studio 2017\WebSites\BookFinderClient\ConsumeBookFinderService\obj\Debug\ConsumeBookFinderService.Properties.Resources.resources
+C:\Users\vh133\Documents\Visual Studio 2017\WebSites\BookFinderClient\ConsumeBookFinderService\obj\Debug\ConsumeBookFinderService.csproj.GenerateResource.Cache
+C:\Users\vh133\Documents\Visual Studio 2017\WebSites\BookFinderClient\ConsumeBookFinderService\obj\Debug\ConsumeBookFinderService.csproj.CoreCompileInputs.cache
+C:\Users\vh133\Documents\Visual Studio 2017\WebSites\BookFinderClient\ConsumeBookFinderService\obj\Debug\ConsumeBookFinderService.exe
+C:\Users\vh133\Documents\Visual Studio 2017\WebSites\BookFinderClient\ConsumeBookFinderService\obj\Debug\ConsumeBookFinderService.pdb
+C:\Users\vh133\Documents\Visual Studio 2017\WebSites\BookFinderClient\ConsumeBookFinderService\obj\Debug\ConsumeBookFinderService.csprojResolveAssemblyReference.cache

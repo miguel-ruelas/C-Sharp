@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFlight xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Flight>
+    <FlightNumber>125</FlightNumber>
+    <DateAndTime>2017-06-24T05:30:00</DateAndTime>
+    <SourceAirport>MIA</SourceAirport>
+    <DestAirport>LAX</DestAirport>
+    <Fare>1510.49</Fare>
+    <Seats>10</Seats>
+  </Flight>
+  <Flight>
+    <FlightNumber>128</FlightNumber>
+    <DateAndTime>2017-06-24T11:30:00</DateAndTime>
+    <SourceAirport>MIA</SourceAirport>
+    <DestAirport>LAX</DestAirport>
+    <Fare>2062.85</Fare>
+    <Seats>10</Seats>
+  </Flight>
+  <Flight>
+    <FlightNumber>131</FlightNumber>
+    <DateAndTime>2017-06-24T17:30:00</DateAndTime>
+    <SourceAirport>MIA</SourceAirport>
+    <DestAirport>LAX</DestAirport>
+    <Fare>2192.85</Fare>
+    <Seats>10</Seats>
+  </Flight>
+  <Flight>
+    <FlightNumber>134</FlightNumber>
+    <DateAndTime>2017-06-24T23:30:00</DateAndTime>
+    <SourceAirport>MIA</SourceAirport>
+    <DestAirport>LAX</DestAirport>
+    <Fare>1719.38</Fare>
+    <Seats>10</Seats>
+  </Flight>
+</ArrayOfFlight>
