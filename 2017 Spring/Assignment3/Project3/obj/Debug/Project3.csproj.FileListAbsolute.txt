@@ -1,0 +1,12 @@
+Y:\Projects\Week11\Project3\Project3\bin\Debug\Project3.exe.config
+Y:\Projects\Week11\Project3\Project3\bin\Debug\Project3.exe
+Y:\Projects\Week11\Project3\Project3\bin\Debug\Project3.pdb
+Y:\Projects\Week11\Project3\Project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+Y:\Projects\Week11\Project3\Project3\obj\Debug\Project3.Form1.resources
+Y:\Projects\Week11\Project3\Project3\obj\Debug\Project3.Properties.Resources.resources
+Y:\Projects\Week11\Project3\Project3\obj\Debug\Project3.csproj.GenerateResource.Cache
+Y:\Projects\Week11\Project3\Project3\obj\Debug\Project3.exe
+Y:\Projects\Week11\Project3\Project3\obj\Debug\Project3.pdb
+Y:\Projects\Week11\Project3\Project3\obj\Debug\Project3.AddResidentialProperty.resources
+Y:\Projects\Week11\Project3\Project3\obj\Debug\Project3.AddCommercialProperty.resources
+Y:\Projects\Week11\Project3\Project3\obj\Debug\Project3.Report.resources

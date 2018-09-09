@@ -1,0 +1,6 @@
+Y:\Projects\Week15\Assignment4\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\VS2015\Desktop\Assignment4\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\VS2015\Desktop\Assignment4\Inventory\bin\Debug\Inventory.dll
+C:\Users\VS2015\Desktop\Assignment4\Inventory\bin\Debug\Inventory.pdb
+C:\Users\VS2015\Desktop\Assignment4\Inventory\obj\Debug\Inventory.dll
+C:\Users\VS2015\Desktop\Assignment4\Inventory\obj\Debug\Inventory.pdb

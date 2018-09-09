@@ -1,0 +1,9 @@
+Z:\Projects\Week7\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+Z:\Projects\Week7\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+Z:\Projects\Week7\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+Z:\Projects\Week7\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+Z:\Projects\Week7\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+Z:\Projects\Week7\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+Z:\Projects\Week7\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+Z:\Projects\Week7\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+Z:\Projects\Week7\Assignment2\Assignment2\obj\Debug\Assignment2.pdb

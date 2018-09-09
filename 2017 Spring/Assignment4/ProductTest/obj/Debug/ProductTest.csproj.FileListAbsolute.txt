@@ -1,0 +1,15 @@
+Y:\Projects\Week15\Assignment4\ProductTest\obj\Debug\ProductTest.csprojResolveAssemblyReference.cache
+C:\Users\VS2015\Desktop\Assignment4\ProductTest\obj\Debug\ProductTest.csprojResolveAssemblyReference.cache
+C:\Users\VS2015\Desktop\Assignment4\ProductTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\VS2015\Desktop\Assignment4\ProductTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\VS2015\Desktop\Assignment4\ProductTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\VS2015\Desktop\Assignment4\ProductTest\bin\Debug\ProductTest.dll
+C:\Users\VS2015\Desktop\Assignment4\ProductTest\bin\Debug\ProductTest.pdb
+C:\Users\VS2015\Desktop\Assignment4\ProductTest\bin\Debug\Inventory.dll
+C:\Users\VS2015\Desktop\Assignment4\ProductTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\VS2015\Desktop\Assignment4\ProductTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\VS2015\Desktop\Assignment4\ProductTest\bin\Debug\Inventory.pdb
+C:\Users\VS2015\Desktop\Assignment4\ProductTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\VS2015\Desktop\Assignment4\ProductTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\VS2015\Desktop\Assignment4\ProductTest\obj\Debug\ProductTest.dll
+C:\Users\VS2015\Desktop\Assignment4\ProductTest\obj\Debug\ProductTest.pdb

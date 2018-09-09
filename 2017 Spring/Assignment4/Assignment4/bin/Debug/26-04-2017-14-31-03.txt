@@ -1,0 +1,17 @@
+Thank you for shopping at 
+Test Store at Location:Test!
+
+
+Purchase date: 
+26-04-2017-14-31-03
+
+
+ID:1100 $1
+ID:1100 $1
+ID:1100 $1
+ID:1100 $1
+ID:10000 $1000
+ID:10000 $1000
+ID:9000 $1230
+ID:8000 $5600
+Total:$8,834.00
